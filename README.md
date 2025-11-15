@@ -37,7 +37,7 @@ uvicorn main:app --reload
 
 Скопируйте токен, который выдаст BotFather — он будет выглядеть так:
 
-8478621884:AAFWVbZq0O37E02IrkKPICzopM7Y2Jx4SzU
+1234567890:ABCDEFGH
 
 
 Узнайте свой chat_id (ID чата, куда бот будет отправлять уведомления):
@@ -55,7 +55,7 @@ uvicorn main:app --reload
 
 Создайте файл .env в корне проекта:
 
-BOT_TOKEN=8478621884:AAFWVbZq0O37E02IrkKPICzopM7Y2Jx4SzU
+BOT_TOKEN=1234567890:ABCDEFGH
 CHAT_ID=123456789
 
 
